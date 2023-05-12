@@ -1,2 +1,1 @@
-console.log("hola mundo");
-console.log("se pueden agregar muchos cambios");
+console.log("Se hace un cambio en el repo remoto");
